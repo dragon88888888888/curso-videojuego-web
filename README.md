@@ -43,11 +43,9 @@ Technical detail of the level design, showcasing the use of Tilemap layers for t
 Display of the implemented UI, including the HUD (Heads-Up Display) and visual interaction elements.
 ![Final UI](Captura_ui_final.png)
 
-### How to Run
-To test the game locally:
-1. Clone this repository or download the folder.
-2. Open the `index.html` file in a browser (using a local server like VS Code *Live Server* or `npx serve` is recommended to avoid CORS issues with WebGL).
-3. Enjoy the experience!
+### DEMO
+To test the game:
+https://dragon88888888888.github.io/curso-videojuego-web/
 
 **Developed by:** DragonGames
 *Educational project.*
