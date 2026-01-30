@@ -88,11 +88,9 @@ Detalle técnico del diseño del nivel, donde se puede apreciar el uso de capas 
 Muestra de la UI implementada, incluyendo el HUD (Heads-Up Display) y otros elementos visuales de interacción.
 ![UI Final](Captura_ui_final.png)
 
-### Cómo Ejecutar el Juego
-Para probar el juego localmente:
-1. Clonar este repositorio o descargar la carpeta.
-2. Abrir el archivo `index.html` en un navegador (se recomienda usar un servidor local como *Live Server* de VS Code o `npx serve` para evitar problemas de CORS con WebGL).
-3. ¡Disfrutar de la experiencia!
+### DEMO 
+Para probar el juego :
+https://dragon88888888888.github.io/curso-videojuego-web/
 
 **Desarrollado por:** DragonGames
 *Proyecto realizado con fines educativos.*
